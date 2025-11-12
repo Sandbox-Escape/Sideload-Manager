@@ -7,11 +7,11 @@
     "iconUrl": "",
     "description": "this is the test app",
     "version": "non",
-    "rating": 0/10,
+    "rating": "0/10",
     "price": "£0.00",
     "screenshots": [],
     "permissions": [],
-    "privacy-rating": 10/10,
+    "privacy-rating": "10/10",
     "url": "",
     "website": ""
   }
